@@ -1,7 +1,6 @@
 ////////////
-//Lab 3 UART 
-// Based on code from realdigital .org
-//Mark W. Welker
+//UART 
+//Rabeea Fatima
 //////////
 #include <stdint.h> // so I can use the integers I want
 #include <stdio.h>  // so I can use sprintf
@@ -222,3 +221,4 @@ for (;;){
 
 	return (1);
 }
+
